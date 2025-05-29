@@ -1,0 +1,3 @@
+#Buoyancy Caculations
+
+To get an airship to remain neutrally buoyant, we need the weight of the blimp to equal the buoyant force.
